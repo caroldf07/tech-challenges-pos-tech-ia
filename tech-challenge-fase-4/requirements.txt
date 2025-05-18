@@ -1,0 +1,6 @@
+face_recognition
+numpy
+tqdm
+deepface
+opencv
+mediapipe
